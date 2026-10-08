@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-python-unittest",
+      "title": "Testing Python Programs with unittest",
+      "description": "Write unit tests, check edge cases, and use test failures to find and fix a Python bug.",
+      "path": "assignments/testing-python-unittest",
+      "dueDate": "2026-10-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
